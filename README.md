@@ -1,6 +1,14 @@
 # Pareamento JavaScript nave.rs
 
-## Instruções para você realizar o parameanto
+## Cronograma
+
+O pareamento é uma reunião de uma hora com a seguinte divisão de tempo:
+
+* 5 minutos iniciais: apresentação do candidato/entrevistador e explicação do problema
+* 50 minutos: pareamento técnico (está mais bem descrito abaixo)
+* 5 minutos finais: tempo para o candidato tirar as dúvidas 
+
+
 
 ## O que você precisa fazer
 
